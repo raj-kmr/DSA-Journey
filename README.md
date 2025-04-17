@@ -18,7 +18,7 @@ This repository is my personal journey through Data Structures and Algorithms us
 ## ✅ Progress Tracker
 
 ### Arrays
-- [ ] [Two Sum](Arrays/TwoSum.java)
+- [x] [Two Sum](Arrays/TwoSum.java)
 
 ---
 
