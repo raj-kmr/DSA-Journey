@@ -26,7 +26,7 @@ This repository is my personal journey through Data Structures and Algorithms us
 - [x] [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [x] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [x] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [Remove Element](https://leetcode.com/problems/remove-element/)
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
