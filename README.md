@@ -28,7 +28,7 @@ This repository is my personal journey through Data Structures and Algorithms us
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [x] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [x] [Remove Element](https://leetcode.com/problems/remove-element/)
-- [ ] [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [x] [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
