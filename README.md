@@ -30,7 +30,7 @@ This repository is my personal journey through Data Structures and Algorithms us
 - [x] [Remove Element](https://leetcode.com/problems/remove-element/)
 - [x] [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [x] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
-- [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [x] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
