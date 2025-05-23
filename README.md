@@ -33,7 +33,7 @@ This repository is my personal journey through Data Structures and Algorithms us
 - [x] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [x] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
-- [ ] [Seggregate 0s and 1s](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1)
+- [x] [Seggregate 0s and 1s](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
