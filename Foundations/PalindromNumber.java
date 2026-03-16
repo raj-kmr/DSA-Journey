@@ -1,8 +1,6 @@
 // #Problem: https://leetcode.com/problems/palindrome-number/description/
 
 
-package Foundations;
-
 public class PalindromNumber {
     public static void main(String[] args) {
         int x = 10;

@@ -24,7 +24,7 @@ public class RotateArray {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 4, 5, 6, 7};
         int k = 3;
-        int n = nums.length;
+        // int n = nums.length;
         // Taking an array to store the answer
         int[] ans = new int[nums.length];
 
@@ -36,8 +36,9 @@ public class RotateArray {
         }
 
         // for each element modify the given array from the answer array
-        for(int i = 0; i < nums.length; i++){
+        for (int i = 0; i < nums.length; i++){
             nums[i] = ans[i];
+            System.out.print(nums[i]);
         }
     }
 }
