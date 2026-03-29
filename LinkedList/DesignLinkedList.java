@@ -107,7 +107,7 @@ public class DesignLinkedList {
 
         int cnt = 0;
         Node temp = head;
-        Node prev = null;
+        Node prev;
         while(temp != null){
             prev = temp;
             if(cnt == index -1){
@@ -130,10 +130,10 @@ public class DesignLinkedList {
         int valueOfGet = get(head, 2);
         System.out.println(valueOfGet);
 
-        // addAtHead(head, val);
+        addAtHead(head, val);
 
-        // addAtTail(head, val);
-        // addAtIndex(head, 2, val);
+        addAtTail(head, val);
+        addAtIndex(head, 2, val);
         deleteAtIndex(head, val);
     }
 }
