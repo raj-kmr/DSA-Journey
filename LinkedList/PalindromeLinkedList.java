@@ -65,3 +65,7 @@ public class PalindromeLinkedList {
         System.out.println(true);
     }
 }
+
+
+// Time complexity: O(n)
+// Space complexity: O(1)
