@@ -63,12 +63,12 @@ This repository is my personal journey through Data Structures and Algorithms us
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 ### ✅ Linked Lists
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
-- [ ] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- [x] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [ ] [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
