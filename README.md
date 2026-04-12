@@ -66,7 +66,7 @@ This repository is my personal journey through Data Structures and Algorithms us
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [x] [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [x] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
