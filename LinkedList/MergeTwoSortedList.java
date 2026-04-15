@@ -1,3 +1,5 @@
+// # PROBLEM: https://leetcode.com/problems/merge-two-sorted-lists/
+
 
 class Node {
 
@@ -75,3 +77,7 @@ public class MergeTwoSortedList {
         traversalLL(newNode);
     }
 }
+
+
+// Time complexity: O(n + m)
+// Space complexity: O(n + m)
